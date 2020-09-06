@@ -1,16 +1,15 @@
 ## Github Finder (V2)
 
-Source: https://www.udemy.com/course/modern-react-front-to-back/learn/lecture/15080302#overview
+### App level state management and Hooks
 
-Level: ⭐️
+Refactored from class-based to functional component with hooks
 
 ---
 
-### Description
+##### Note
 
-1. Refactoring to Hooks
-
-- It is better to manage App level state [users, user, repos, loading, alert]. But it is still cluttering and messy
+- It is better to manage state with App level state [users, user, repos, loading, alert]. But it is still cluttering and messy
+- Use Context API (next repos)
 
 ---
 
@@ -21,17 +20,3 @@ Level: ⭐️
   - User Component with useEffect (27)
     - // eslint-disable-next-line
   - App Component (28)
-
-### Component
-
-- Navbar
-- Search
-- user
-  - UserItem
-  - Users
-
----
-
-### API
-
-- https://api.github.com/users
