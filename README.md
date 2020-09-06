@@ -15,7 +15,9 @@ Level: ⭐️
 ### Features
 
 - Refactor to functional component with hooks
-  - Search Component
+  - Search Component (26)
+  - User Component with useEffect (27)
+    - // eslint-disable-next-line
 
 ### Component
 
