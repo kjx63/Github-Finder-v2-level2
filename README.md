@@ -14,7 +14,8 @@ Level: ⭐️
 
 ### Features
 
-- (26)
+- Refactor to functional component with hooks
+  - Search Component
 
 ### Component
 
