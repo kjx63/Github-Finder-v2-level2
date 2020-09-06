@@ -8,7 +8,9 @@ Level: ⭐️
 
 ### Description
 
-1. Refactoring to Hooks & Context
+1. Refactoring to Hooks
+
+- It is better to manage App level state [users, user, repos, loading, alert]. But it is still cluttering and messy
 
 ---
 
@@ -18,6 +20,7 @@ Level: ⭐️
   - Search Component (26)
   - User Component with useEffect (27)
     - // eslint-disable-next-line
+  - App Component (28)
 
 ### Component
 
